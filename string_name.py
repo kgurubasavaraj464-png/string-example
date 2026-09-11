@@ -8,3 +8,4 @@ reverse = string[-1]
 print("Reversed string:", reverse)
 
 print("Hii")
+print("Hello")
